@@ -1,14 +1,14 @@
 ChangeLog
 =========
 
-**V0.0.7 (futur)**:
+**V0.0.7 (4 juin 2014)**:
  - nouveau nom : Otomatik
  - qui dis nouveau nom, dis nouveau logo
  - Correction d'un bug lié à la reconnaissance vocale et l'envoi à Sarah (qui retournai toujours une erreur de connexion)
  - Possibilité d'utilisé domoticz sans login/mdp ainsi que de passer par de l'HTTPS, login/mdp d'une autre méthode que Domoticz,...
  - correction d'un bug lié au "off" d'un dimmer sur domoticz
- - 
  - nouveau systeme de connexion et de vérification de la connexion de chaque serveur
+ - correction graphique et bug fix sur la création d'action lié à domoticz.
 
 **V0.0.6 (3 juin 2014)**:
  - ajout d'un widget de récupération de données (température, vent, pourcentage,...)
