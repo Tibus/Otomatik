@@ -1,6 +1,8 @@
 ChangeLog
 =========
-
+**V0.0.7.1 (4 juin 2014)**:
+ - bug fix à l'ajout automatique des sensors domoticz
+ 
 **V0.0.7 (4 juin 2014)**:
  - nouveau nom : Otomatik
  - qui dis nouveau nom, dis nouveau logo
