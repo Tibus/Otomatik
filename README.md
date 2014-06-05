@@ -1,7 +1,7 @@
 ChangeLog
 =========
 
-**V0.0.8 (5 juin 2014)**:
+**V0.0.8 (futur)**:
  - Possibilité de gérer la sécurité d'accès à un serveur indépendament en local et en externe
  - refacto du systeme de connexion et de Sécurité.
  
