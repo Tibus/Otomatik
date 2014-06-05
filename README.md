@@ -1,5 +1,10 @@
 ChangeLog
 =========
+
+**V0.0.8 (5 juin 2014)**:
+ - Possibilité de gérer la sécurité d'accès à un serveur indépendament en local et en externe
+ - refacto du systeme de connexion et de Sécurité.
+ 
 **V0.0.7.1 (4 juin 2014)**:
  - bug fix à l'ajout automatique des sensors domoticz
  
