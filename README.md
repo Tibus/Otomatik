@@ -3,6 +3,11 @@ ChangeLog
 
 **V0.0.8 (futur)**:
  - Possibilité de gérer la sécurité d'accès à un serveur indépendament en local et en externe
+ - Meilleur gestion de la connexion aux serveurs
+ - Possibilité de mettre à jour un sensors en cliquant sur le portlet
+ - Ajout/suppression des écrans en fonction des serveurs ajouté (ne pas afficher les écrans propre à S.A.R.A.H. s'il n'y a pas de server configuré par exemple)
+ - changement des requètes de récupération des valeurs de sensors de Domoticz (ça fait beaucoup de "De") pour permettre :
+ - Regroupement des requètes de récupération des sensors et autres pour diminuer le nombres de requêtes sortantes. (Plus particulièrement pour les box domotiques qui, en une requête, peuvent récupérer l'état de tous les sensors)
  - refacto du systeme de connexion et de Sécurité.
  
 **V0.0.7.1 (4 juin 2014)**:
