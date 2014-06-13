@@ -2,7 +2,10 @@ ChangeLog
 =========
 
 **V0.0.8 (futur)**:
+ - Ajout d'un écran "Liste" qui affiche tous les devices sous forme de liste que l'on peu classer par nom, type ou écran de la page d'accueil
+ - Ajout d'une fonctionnalité pour masquer un portlet de la page d'accueil (mais il reste afficher dans la page "liste")
  - Possibilité de gérer la sécurité d'accès à un serveur indépendament en local et en externe
+ - Correction des connexions SSL et Basic Auth
  - Meilleur gestion de la connexion aux serveurs
  - Possibilité de mettre à jour un sensors en cliquant sur le portlet
  - Ajout/suppression des écrans en fonction des serveurs ajouté (ne pas afficher les écrans propre à S.A.R.A.H. s'il n'y a pas de server configuré par exemple)
