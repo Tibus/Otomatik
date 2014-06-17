@@ -1,9 +1,9 @@
 ChangeLog
 =========
-**V0.0.9 (futur) ** :
+**V0.0.9 (futur)** :
  - Ajout d'un systeme de reconnaissance vocal interne avant la reconnaissance vocale de Sarah (si on a un serveur Sarah) pour permettre d'allumer, éteindre, ouvrir, fermer, faire varier,... n'importe quel portlet de l'application.
  
-**V0.0.8 (futur) **:
+**V0.0.8 (futur)**:
  - Ajout d'un écran "Liste" qui affiche tous les devices sous forme de liste que l'on peu classer par nom, type ou écran de la page d'accueil. En slidant horizontalement chaques items, on peut faire apparaître une bouton supprimer, editer et afficher sur la page d'accueil. La pluspart des items garde leurs fonctionnalité d'intéraction (bouton on/off, dimmer, affichage des valeurs d'un sensor,...)
  - Ajout d'une fonctionnalité pour masquer un portlet de la page d'accueil (mais il reste afficher dans la page "liste") (pas encore pour tous les portlets car ils ne se retrouvent pas encore tous dans la page "liste")
  - Possibilité de gérer la sécurité d'accès à un serveur indépendament en local et en externe
