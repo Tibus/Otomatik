@@ -10,6 +10,7 @@ ChangeLog
  - Nouveau manager de reconnaissance vocale (pour permettre la reconnaissance vocale)
  - Ajout d'un portlet de texte simple sans background
  - Possibilité de mettre à jour un sensors en cliquant sur le portlet
+ - Intégration de la reconnaissance vocale directement dans le portlet de reconnaissance vocale
  - Ajout/suppression des écrans en fonction des serveurs ajouté (ne pas afficher les écrans propre à S.A.R.A.H. s'il n'y a pas de server configuré par exemple)
  - changement des requètes de récupération des valeurs de sensors de Domoticz (ça fait beaucoup de "De") pour permettre :
  - Regroupement des requètes de récupération des sensors et autres pour diminuer le nombres de requêtes sortantes. (Plus particulièrement pour les box domotiques qui, en une requête, peuvent récupérer l'état de tous les sensors)
