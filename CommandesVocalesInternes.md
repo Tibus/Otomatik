@@ -1,51 +1,60 @@
-La V0.0.9 de Otomatik intègre les commandes vocales internes à l'application. 
-Grâce au portlet de reconnaissance vocale, à l'écran de reconnaissance vocale ou bientôt (j'espere) à la reconnaissance vocale d'un mot clé ("Otomatik"),
-vous pouvez contrôler la plus-part des portlets à la voix.
+# Commandes vocales internes
 
-Voici la liste des portlets, leurs actions et les phrases qui permettent ces actions : 
+La v`0.0.9` de Otomatik intègre les commandes vocales internes à l'application.  
+Grâce au *portlet* de reconnaissance vocale, à l'écran de reconnaissance vocale, ou, bientôt (j'espère), à la reconnaissance vocale d'un mot clé ("*Otomatik*"), vous pouvez contrôler la plupart des *portlets* à la voix.
 
-## Bouton simple ##
-***Simple action du bouton***  
-**allume** + nom du portlet  
-**allumer** + nom du portlet  
-**eteinds** + nom du portlet  
-**eteindre** + nom du portlet  
-**ouvre** + nom du portlet  
-**ouvrir** + nom du portlet  
-**ferme** + nom du portlet  
-**fermer** + nom du portlet  
-**scénario** + nom du portlet  
-**scene** + nom du portlet  
+Voici la liste des portlets, leurs actions et les phrases qui déclenchent ces actions : 
 
-## Bouton On/Off ##
-***Action Off vers On (se lancera même si le bouton est déjà sur On)***  
-**allume** + nom du portlet  
-**allumer** + nom du portlet  
-**ouvre** + nom du portlet  
-**ouvrir** + nom du portlet  
+## Actions simples
 
-***Action On vers Off (se lancera même si le bouton est déjà sur Off)***  
-**eteinds** + nom du portlet  
-**eteindre** + nom du portlet  
-**ferme** + nom du portlet  
-**fermer** + nom du portlet  
+Active le *portlet*.
 
-## Variateur ##
-***Allumer le variateur à 100%***  
-**allume** + nom du portlet  
-**allumer** + nom du portlet  
-**ouvre** + nom du portlet  
-**ouvrir** + nom du portlet  
+* *allume [nom du portlet]*
+* *allumer [nom du portlet]*
+* *eteinds [nom du portlet]*
+* *eteindre [nom du portlet]*
+* *ouvre [nom du portlet]*
+* *ouvrir [nom du portlet]*
+* *ferme [nom du portlet]*
+* *fermer [nom du portlet]*
+* *scénario [nom du portlet]*
+* *scene [nom du portlet]*
 
-***Eteindre le variateur (0%)***  
-**eteinds** + nom du portlet  
-**eteindre** + nom du portlet  
-**ferme** + nom du portlet  
-**fermer** + nom du portlet  
+## Actions On/Off
 
-***Mettre le variateur à une certaine valeur (en pourcent)***  
-**allume** + _nom du portlet_ + **à** + _valeur_ +**pourcents**  
-**allumer** + _nom du portlet_ + **à** + _valeur_ +**pourcents**  
-**ouvre** + _nom du portlet_ + **à** + _valeur_ +**pourcents**  
-**ouvrir** + _nom du portlet_ + **à** + _valeur_ +**pourcents**  
+Passe le statut du *portlet* à `ON` s'il est `OFF`.
 
+* *allume [nom du portlet]*
+* *allumer [nom du portlet]*
+* *ouvre [nom du portlet]*
+* *ouvrir [nom du portlet]*
+
+Passe le statut du *portlet* à `OFF` s'il est `ON`.
+
+* *eteinds [nom du portlet]*
+* *eteindre [nom du portlet]*
+* *ferme [nom du portlet]*
+* *fermer [nom du portlet]*
+
+## Variateur
+
+Fixe la valeur du *portlet* à 100%.
+
+* *allume [nom du portlet]*
+* *allumer [nom du portlet]*
+* *ouvre [nom du portlet]*
+* *ouvrir [nom du portlet]*
+
+Fixe la valeur du *portlet* à 0%.
+
+* *eteinds [nom du portlet]*
+* *eteindre [nom du portlet]*
+* *ferme [nom du portlet]*
+* *fermer [nom du portlet]*
+
+Fixe la valeur du *portlet* à une valeur donnée.
+
+* *allume [nom du portlet] à [valeur] pourcents*
+* *allumer [nom du portlet] à [valeur] pourcents*
+* *ouvre [nom du portlet] à [valeur] pourcents*
+* *ouvrir [nom du portlet] à [valeur] pourcents*
