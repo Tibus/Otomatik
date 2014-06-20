@@ -11,7 +11,7 @@ Voici la liste des portlets, leurs actions et les phrases qui permettent ces act
 **eteinds** + nom du portlet  
 **eteindre** + nom du portlet  
 **ouvre** + nom du portlet  
-**ouvrir** + nom du portlet 
+**ouvrir** + nom du portlet  
 **ferme** + nom du portlet  
 **fermer** + nom du portlet  
 **scénario** + nom du portlet  
