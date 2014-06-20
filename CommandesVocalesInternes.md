@@ -5,7 +5,7 @@ Grâce au *portlet* de reconnaissance vocale, à l'écran de reconnaissance voca
 
 Voici la liste des portlets, leurs actions et les phrases qui déclenchent ces actions : 
 
-## Actions simples
+## Boutons simples
 
 Active le *portlet*.
 
@@ -20,7 +20,7 @@ Active le *portlet*.
 * *scénario [nom du portlet]*
 * *scene [nom du portlet]*
 
-## Actions On/Off
+## Boutons On/Off
 
 Passe le statut du *portlet* à `ON` s'il est `OFF`.
 
@@ -58,3 +58,46 @@ Fixe la valeur du *portlet* à une valeur donnée.
 * *allumer [nom du portlet] à [valeur] pourcents*
 * *ouvre [nom du portlet] à [valeur] pourcents*
 * *ouvrir [nom du portlet] à [valeur] pourcents*
+
+## XBMC 
+Mets en pause le lecteur XBMC
+* *pause XBMC*
+* *XBMC pause*
+
+Relance la lecteur de XBMC
+* *play XBMC*
+* *XBMC play*
+
+Affiche le lecture en cours
+* *fullscreen XBMC*
+* *XBMC fullscreen*
+* *lecture en cours XBMC*
+* *XBMC lecture en cours*
+
+Affiche la page d'accueil
+* *home XBMC*
+* *XBMC home*
+
+Navigue vers la gauche
+* *XBMC gauche*
+
+Navigue vers la droite
+* *XBMC droite*
+
+Navigue vers le haut
+* *XBMC haut*
+
+Navigue vers le bas
+* *XBMC bas*
+
+Valide l'élément selectionné
+* *XBMC ok*
+
+Reviens en arrière
+* *XBMC retour*
+
+Chansons/fichier précédent
+* *XBMC précédent*
+
+Chansons/fichier suivant
+* *XBMC Suivant*
