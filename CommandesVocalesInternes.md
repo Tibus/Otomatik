@@ -64,11 +64,11 @@ Mets en pause le lecteur XBMC
 * *pause XBMC*
 * *XBMC pause*
 
-Relance la lecteur de XBMC
+Relance la lecture de XBMC
 * *play XBMC*
 * *XBMC play*
 
-Affiche le lecture en cours
+Affiche la lecture en cours
 * *fullscreen XBMC*
 * *XBMC fullscreen*
 * *lecture en cours XBMC*
