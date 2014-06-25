@@ -61,7 +61,6 @@ Fixe la valeur du *portlet* à une valeur donnée.
 
 ## Sensor
 Récupérer l'état d'un sensor
-* *pause XBMC*
 * *Quelle est la valeur de [nom du portlet]*
 * *Donne moi la valeur de [nom du portlet]*
 * *C'est quoi la valeur de [nom du portlet]*
