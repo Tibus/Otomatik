@@ -1,6 +1,6 @@
 # Commandes vocales internes
 
-La v`0.0.9` de Otomatik intègre les commandes vocales internes à l'application.  
+La v`0.0.8` de Otomatik intègre les commandes vocales internes à l'application.  
 Grâce au *portlet* de reconnaissance vocale, à l'écran de reconnaissance vocale, ou, bientôt (j'espère), à la reconnaissance vocale d'un mot clé ("*Otomatik*"), vous pouvez contrôler la plupart des *portlets* à la voix.
 
 Voici la liste des portlets, leurs actions et les phrases qui déclenchent ces actions : 
