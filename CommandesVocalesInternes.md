@@ -59,6 +59,13 @@ Fixe la valeur du *portlet* à une valeur donnée.
 * *ouvre [nom du portlet] à [valeur] pourcents*
 * *ouvrir [nom du portlet] à [valeur] pourcents*
 
+## Sensor
+Récupérer l'état d'un sensor
+* *pause XBMC*
+* *Quelle est la valeur de [nom du portlet]*
+* *Donne moi la valeur de [nom du portlet]*
+* *C'est quoi la valeur de [nom du portlet]*
+
 ## XBMC 
 Mets en pause le lecteur XBMC
 * *pause XBMC*
