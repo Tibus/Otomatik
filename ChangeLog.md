@@ -16,6 +16,7 @@ ChangeLog
  - Regroupement des requètes de récupération des sensors et autres pour diminuer le nombres de requêtes sortantes. (Plus particulièrement pour les box domotiques qui, en une requête, peuvent récupérer l'état de tous les sensors)
  - Ajout de la date sur le portlet d'horloge
  - Nouvelle organisation des configurations en sous-pages,...
+ - Etude d'optimisation des performances pour les prochaines versions
 
 ***interne***
  - refacto du systeme de connexion et de Sécurité.
